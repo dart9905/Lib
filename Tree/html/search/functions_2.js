@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['tree_2eh',['tree.h',['../tree_8h.html',1,'']]],
-  ['tree_5ft',['Tree_t',['../structTree__t.html',1,'']]],
   ['treeadd',['TreeAdd',['../tree_8h.html#ac0bb658b204feddd13e2a026853a63a7',1,'tree.h']]],
   ['treeaddleft',['TreeAddLeft',['../tree_8h.html#a909d82204575bb0dd636ae44103d7b34',1,'tree.h']]],
   ['treeaddright',['TreeAddRight',['../tree_8h.html#a771a2d67c69079d841dc6dfe3c3d090b',1,'tree.h']]],
@@ -25,6 +23,5 @@ var searchData=
   ['treeprintnodeuse2',['TreePrintNodeUSE2',['../tree_8h.html#ad50ff24af8abd43dae4856aad15bf8f0',1,'tree.h']]],
   ['treereadfiles',['TreeReadFiles',['../tree_8h.html#a913f91aa8bef2f61c8ee5bb47199f782',1,'TreeReadFiles(const char *name_files, Tree_t *Tree, Cell_t *cell):&#160;tree.h'],['../tree_8h.html#ab2b7e501fa56c9b0aa7411e0227062c7',1,'TreeReadFiles(const char *name_files, Tree_t *Tree, Cell_t *cell, const int next):&#160;tree.h']]],
   ['treereadfilesrecurs',['TreeReadFilesRecurs',['../tree_8h.html#a2391a6b14e67096cacc405b0250e9550',1,'tree.h']]],
-  ['treerecurs',['TreeRecurs',['../tree_8h.html#a3b035deb6da1db06cc667331b2410f0f',1,'tree.h']]],
-  ['type',['type',['../structCell__t.html#ac765329451135abec74c45e1897abf26',1,'Cell_t']]]
+  ['treerecurs',['TreeRecurs',['../tree_8h.html#a3b035deb6da1db06cc667331b2410f0f',1,'tree.h']]]
 ];

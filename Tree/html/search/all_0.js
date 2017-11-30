@@ -1,5 +1,7 @@
 var searchData=
 [
   ['cell',['cell',['../structTree__t.html#ae48e76955d375dedb541e628590724b8',1,'Tree_t']]],
-  ['cell_5ft',['Cell_t',['../structCell__t.html',1,'']]]
+  ['cell_5fsize_5fdata',['CELL_SIZE_DATA',['../tree_8h.html#a413ebdeae9e41f3a57e62253f6c8989d',1,'tree.h']]],
+  ['cell_5ft',['Cell_t',['../structCell__t.html',1,'']]],
+  ['cellnew',['CellNew',['../tree_8h.html#aa6f3c21bac9921b8bd7b76380484135b',1,'tree.h']]]
 ];

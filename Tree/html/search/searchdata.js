@@ -3,8 +3,8 @@ var indexSectionsWithContent =
   0: "cdeflnprst",
   1: "ct",
   2: "t",
-  3: "rt",
-  4: "cdfnps",
+  3: "crt",
+  4: "cdfnpst",
   5: "dep",
   6: "eflr"
 };
